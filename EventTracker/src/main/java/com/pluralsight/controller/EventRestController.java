@@ -15,7 +15,7 @@ public class EventRestController {
 	@RequestMapping(value="/events")
 	public List<Event> getEvents(){
 		
-		List<Event> events = new ArrayList();
+		List<Event> events = new Arr  ayList();
 		Event event1 = new Event();
 		event1.setName("java user group");
 		events.add(event1);
