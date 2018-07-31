@@ -4,9 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Index page</title>
 </head>
 <body>
-working:::::
+<h1>${event.name} </h1>
+<a href ="event.html">Event  page</a><br>
+<a href ="attendee.html">Attendee  page</a>
 </body>
 </html>

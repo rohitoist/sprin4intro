@@ -1,0 +1,11 @@
+com\pluralsight\controller\HelloController.class
+com\pluralsight\App.class
+com\pluralsight\model\Event.class
+com\pluralsight\WebConfig.class
+com\pluralsight\controller\EventController.class
+com\pluralsight\view\PhoneConstraintValidator.class
+com\pluralsight\WebAppinitializer.class
+com\pluralsight\view\Phone.class
+com\pluralsight\controller\EventRestController.class
+com\pluralsight\model\Attendee.class
+com\pluralsight\controller\AttendeeController.class
