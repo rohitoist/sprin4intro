@@ -3,7 +3,6 @@ package com.pluralsight.controller;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -16,7 +15,7 @@ public class EventRestController {
 	@RequestMapping(value="/events")
 	public List<Event> getEvents(){
 		
-		List<Event> events = new ArrayList();
+		List<Event> events = new Arr  ayList();
 		Event event1 = new Event();
 		event1.setName("java user group");
 		events.add(event1);
