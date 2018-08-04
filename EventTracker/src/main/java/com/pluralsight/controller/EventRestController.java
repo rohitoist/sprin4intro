@@ -1,4 +1,4 @@
-package com.pluralsight.controller;
+/*package com.pluralsight.controller;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -25,4 +25,4 @@ public class EventRestController {
 		
 		return events;
 	}
-}
+}*/
