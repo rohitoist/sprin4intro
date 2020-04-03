@@ -33,6 +33,7 @@ public class AttendeeController {
 			return "attendee";
 		}
 		System.out.print(attendee.getName());
+		System.out.print("testing jenkins push");
 		return "redirect:index.html";
 	}
 }
