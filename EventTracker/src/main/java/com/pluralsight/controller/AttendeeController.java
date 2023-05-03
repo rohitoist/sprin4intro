@@ -32,7 +32,7 @@ public class AttendeeController {
 		if(result.hasErrors()) {
 			return "attendee";
 		}
-		//System.out.print(attendee.getName());
+		System.out.print(attendee.getName());
 		System.out.print("testing jenkins push");
 		return "redirect:index.html";
 	}
